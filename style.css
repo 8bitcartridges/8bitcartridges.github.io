@@ -6,6 +6,7 @@ h1{font-weight:normal; font-size:22px;}
 h2{font-weight:normal; font-size:16px;}
 a{color:#4078c0; text-decoration:none;}
 a:hover{color:#5896e6;}
+#hit{font-weight:bold;}
 #menu{background-color:#484848;text-align:center;display:flex;justify-content: center; border-bottom:1px solid black;}
 #menu a{font-size:13px; font-weight:bold; color:white; padding:15px 12px;}
 #menu a:hover{background:gray;}
